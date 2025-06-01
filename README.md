@@ -1,2 +1,2 @@
 # abstractClassDemo
-legit just a demo for my teacher on abstract classes
+Written for a high school AP Computer Science independent study
